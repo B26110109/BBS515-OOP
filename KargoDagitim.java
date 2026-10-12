@@ -1,4 +1,4 @@
-package bbs516;
+package bbs515;
 
 public class KargoDagitim {
 
